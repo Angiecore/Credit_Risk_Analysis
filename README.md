@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Module17-Machine Learning
+Module 17: Supervised Machine Learning and Credit Risk.
 
 ### Overview of the Project
 
