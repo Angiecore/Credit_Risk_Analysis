@@ -39,6 +39,7 @@ Employ techniques to train and evaluate models with unbalanced classes. This pro
 
 ### Summary
 
-Up to the results we can conclude that Easy Ensemble AdaBoost Classifier is the most accurate machine learning model with a 90.7%.
+Up to the results we can conclude that Easy Ensemble AdaBoost Classifier is the most accurate machine learning model with a 90.7% accuracy.
+
 
 
